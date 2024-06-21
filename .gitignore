@@ -14,3 +14,5 @@
 !/Plugins/**
 
 # Only allow .uasset and .umap files from /Content dir.
+/Content/**/*.uasset
+/Content/**/*.umap
