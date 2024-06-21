@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"G:\\Unreal Engine Projects\\NewGameProject\\Source\\BaseProject\\BaseProject.Build.cs",
+		"G:\\Unreal Engine Projects\\NewGameProject\\Source\\BaseProject.Target.cs",
+		"G:\\Unreal Engine Projects\\NewGameProject\\Source\\BaseProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.2"
+}

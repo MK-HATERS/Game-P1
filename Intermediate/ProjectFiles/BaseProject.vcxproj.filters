@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BaseProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BaseProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BaseProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BaseProject">
+      <UniqueIdentifier>{2999ED5E-BB36-3CD7-8386-79F94F9AEE4A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BaseProject\BaseProject.Build.cs">
+      <Filter>Source\BaseProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BaseProject\BaseProject.cpp">
+      <Filter>Source\BaseProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BaseProject\BaseProject.h">
+      <Filter>Source\BaseProject</Filter>
+    </ClInclude>
+    <Filter Include="Source\BaseProject\Character">
+      <UniqueIdentifier>{7BFC19DE-9914-36E2-A1E4-7C787EC3E9D5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BaseProject\Character\CPP_Character.cpp">
+      <Filter>Source\BaseProject\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BaseProject\Character\CPP_Character.h">
+      <Filter>Source\BaseProject\Character</Filter>
+    </ClInclude>
+    <Filter Include="Source\BaseProject\GameFramework">
+      <UniqueIdentifier>{AE6D5049-9B2D-3149-8734-15935B0C9B14}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BaseProject\GameFramework\CPP_GameMode.cpp">
+      <Filter>Source\BaseProject\GameFramework</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BaseProject\GameFramework\CPP_GameMode.h">
+      <Filter>Source\BaseProject\GameFramework</Filter>
+    </ClInclude>
+    <Filter Include="Source\BaseProject\Player">
+      <UniqueIdentifier>{A68C0A53-0437-3E6A-B8E5-52F81D8E836E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BaseProject\Player\CPP_PlayerController.cpp">
+      <Filter>Source\BaseProject\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BaseProject\Player\CPP_PlayerController.h">
+      <Filter>Source\BaseProject\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BaseProject\Player\CPP_PlayerState.cpp">
+      <Filter>Source\BaseProject\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BaseProject\Player\CPP_PlayerState.h">
+      <Filter>Source\BaseProject\Player</Filter>
+    </ClInclude>
+    <Filter Include="Source\BaseProject\System">
+      <UniqueIdentifier>{A1B797E5-502A-3050-B5E3-09D3F56199D0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BaseProject\System\CPP_GameInstance.cpp">
+      <Filter>Source\BaseProject\System</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BaseProject\System\CPP_GameInstance.h">
+      <Filter>Source\BaseProject\System</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BaseProject\System\CPP_GameState.cpp">
+      <Filter>Source\BaseProject\System</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BaseProject\System\CPP_GameState.h">
+      <Filter>Source\BaseProject\System</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

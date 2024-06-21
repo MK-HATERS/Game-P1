@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\unreal engine projects\\newgameproject\\source\\baseproject\\character\\cpp_playercontroller.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\unreal engine projects\\newgameproject\\intermediate\\build\\win64\\x64\\baseprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\unreal engine projects\\newgameproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\baseproject\\definitions.baseproject.h",
+            "g:\\unreal engine projects\\newgameproject\\source\\baseproject\\character\\cpp_playercontroller.h",
+            "g:\\unreal engine projects\\newgameproject\\intermediate\\build\\win64\\unrealeditor\\inc\\baseproject\\uht\\cpp_playercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

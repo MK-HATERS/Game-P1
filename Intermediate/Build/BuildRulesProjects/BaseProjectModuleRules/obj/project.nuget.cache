@@ -1,0 +1,251 @@
+{
+  "version": 2,
+  "dgSpecHash": "rwahOqWYOTy4gWXCE5uCAzQx2TlRwgzhjrTmpWUCygQbltEP7UUxbrPbrm3EdhK/xkCAa7TkC3Jr0G+yCYHOow==",
+  "success": false,
+  "projectFilePath": "G:\\Unreal Engine Projects\\NewGameProject\\Intermediate\\Build\\BuildRulesProjects\\BaseProjectModuleRules\\BaseProjectModuleRules.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "EpicGames.Build depends on System.Security.Permissions (>= 4.7.0) but System.Security.Permissions 4.7.0 was not found. An approximate best match of System.Security.Permissions 6.0.0 was resolved.",
+      "libraryId": "System.Security.Permissions",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.CSharp (>= 4.7.0)' for 'net6.0'.",
+      "libraryId": "Microsoft.CSharp",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.Extensions.FileSystemGlobbing (>= 6.0.0)' for 'net6.0'.",
+      "libraryId": "Microsoft.Extensions.FileSystemGlobbing",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.Extensions.Logging.Console (>= 6.0.0)' for 'net6.0'.",
+      "libraryId": "Microsoft.Extensions.Logging.Console",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'System.Management (>= 4.7.0)' for 'net6.0'.",
+      "libraryId": "System.Management",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'System.ServiceProcess.ServiceController (>= 4.7.0)' for 'net6.0'.",
+      "libraryId": "System.ServiceProcess.ServiceController",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'JetBrains.Annotations (>= 2022.1.0)' for 'net6.0'.",
+      "libraryId": "JetBrains.Annotations",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.Extensions.Configuration (>= 8.0.0)' for 'net6.0'.",
+      "libraryId": "Microsoft.Extensions.Configuration",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.Extensions.Http.Polly (>= 6.0.26)' for 'net6.0'.",
+      "libraryId": "Microsoft.Extensions.Http.Polly",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.Extensions.Logging (>= 6.0.0)' for 'net6.0'.",
+      "libraryId": "Microsoft.Extensions.Logging",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.Extensions.Logging.Abstractions (>= 6.0.1)' for 'net6.0'.",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.Extensions.ObjectPool (>= 6.0.8)' for 'net6.0'.",
+      "libraryId": "Microsoft.Extensions.ObjectPool",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'OpenTracing (>= 0.12.1)' for 'net6.0'.",
+      "libraryId": "OpenTracing",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'System.Memory (>= 4.5.5)' for 'net6.0'.",
+      "libraryId": "System.Memory",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Blake3 (>= 0.5.1)' for 'net6.0'.",
+      "libraryId": "Blake3",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'BitFaster.Caching (>= 2.4.1)' for 'net6.0'.",
+      "libraryId": "BitFaster.Caching",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Dapper (>= 2.1.24)' for 'net6.0'.",
+      "libraryId": "Dapper",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'K4os.Compression.LZ4 (>= 1.2.16)' for 'net6.0'.",
+      "libraryId": "K4os.Compression.LZ4",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.CodeAnalysis.CSharp.Workspaces (>= 4.2.0)' for 'net6.0'.",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp.Workspaces",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.Data.Sqlite (>= 8.0.0)' for 'net6.0'.",
+      "libraryId": "Microsoft.Data.Sqlite",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.Extensions.Caching.Abstractions (>= 6.0.0)' for 'net6.0'.",
+      "libraryId": "Microsoft.Extensions.Caching.Abstractions",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.Extensions.Caching.Memory (>= 6.0.1)' for 'net6.0'.",
+      "libraryId": "Microsoft.Extensions.Caching.Memory",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.Extensions.Http (>= 6.0.0)' for 'net6.0'.",
+      "libraryId": "Microsoft.Extensions.Http",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'IdentityModel.OidcClient (>= 4.0.0)' for 'net6.0'.",
+      "libraryId": "IdentityModel.OidcClient",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.Extensions.Configuration.Binder (>= 6.0.0)' for 'net6.0'.",
+      "libraryId": "Microsoft.Extensions.Configuration.Binder",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.Extensions.Configuration.Json (>= 6.0.0)' for 'net6.0'.",
+      "libraryId": "Microsoft.Extensions.Configuration.Json",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
