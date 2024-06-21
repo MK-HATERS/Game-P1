@@ -1,0 +1,10 @@
+# Auto detect text files and perform LF normalization
+# File built based on personal experience and the official Unreal documentation updated to 2022
+
+* text=auto
+
+# UE file types
+*.uasset filter=lfs diff=lfs merge=lfs -text
+*.umap filter=lfs diff=lfs merge=lfs -text
+*.udk filter=lfs diff=lfs merge=lfs -text
+Content/** filter=lfs diff=lfs merge=lfs -text
