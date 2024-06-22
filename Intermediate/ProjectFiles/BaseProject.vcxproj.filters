@@ -54,6 +54,18 @@
     <ClInclude Include="..\..\Source\BaseProject\Character\CPP_Character.h">
       <Filter>Source\BaseProject\Character</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\BaseProject\Character\CPP_PlayerController.cpp">
+      <Filter>Source\BaseProject\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BaseProject\Character\CPP_PlayerController.h">
+      <Filter>Source\BaseProject\Character</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BaseProject\Character\CPP_PlayerState.cpp">
+      <Filter>Source\BaseProject\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BaseProject\Character\CPP_PlayerState.h">
+      <Filter>Source\BaseProject\Character</Filter>
+    </ClInclude>
     <Filter Include="Source\BaseProject\GameFramework">
       <UniqueIdentifier>{AE6D5049-9B2D-3149-8734-15935B0C9B14}</UniqueIdentifier>
     </Filter>
@@ -62,21 +74,6 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\BaseProject\GameFramework\CPP_GameMode.h">
       <Filter>Source\BaseProject\GameFramework</Filter>
-    </ClInclude>
-    <Filter Include="Source\BaseProject\Player">
-      <UniqueIdentifier>{A68C0A53-0437-3E6A-B8E5-52F81D8E836E}</UniqueIdentifier>
-    </Filter>
-    <ClCompile Include="..\..\Source\BaseProject\Player\CPP_PlayerController.cpp">
-      <Filter>Source\BaseProject\Player</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\BaseProject\Player\CPP_PlayerController.h">
-      <Filter>Source\BaseProject\Player</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\BaseProject\Player\CPP_PlayerState.cpp">
-      <Filter>Source\BaseProject\Player</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\BaseProject\Player\CPP_PlayerState.h">
-      <Filter>Source\BaseProject\Player</Filter>
     </ClInclude>
     <Filter Include="Source\BaseProject\System">
       <UniqueIdentifier>{A1B797E5-502A-3050-B5E3-09D3F56199D0}</UniqueIdentifier>

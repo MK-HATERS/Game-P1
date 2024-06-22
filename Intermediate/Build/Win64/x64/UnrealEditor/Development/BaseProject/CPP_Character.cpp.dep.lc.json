@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\unreal engine projects\\newgameproject\\source\\baseproject\\character\\cpp_character.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\unreal engine projects\\newgameproject\\intermediate\\build\\win64\\x64\\baseprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\unreal engine projects\\newgameproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\baseproject\\definitions.baseproject.h",
+            "g:\\unreal engine projects\\newgameproject\\source\\baseproject\\character\\cpp_character.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "g:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "g:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "g:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "g:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "g:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "g:\\unreal engine projects\\newgameproject\\intermediate\\build\\win64\\unrealeditor\\inc\\baseproject\\uht\\cpp_character.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
