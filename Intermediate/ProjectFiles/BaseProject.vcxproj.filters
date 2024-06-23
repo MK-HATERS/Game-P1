@@ -45,50 +45,5 @@
     <ClInclude Include="..\..\Source\BaseProject\BaseProject.h">
       <Filter>Source\BaseProject</Filter>
     </ClInclude>
-    <Filter Include="Source\BaseProject\Character">
-      <UniqueIdentifier>{7BFC19DE-9914-36E2-A1E4-7C787EC3E9D5}</UniqueIdentifier>
-    </Filter>
-    <ClCompile Include="..\..\Source\BaseProject\Character\CPP_Character.cpp">
-      <Filter>Source\BaseProject\Character</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\BaseProject\Character\CPP_Character.h">
-      <Filter>Source\BaseProject\Character</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\BaseProject\Character\CPP_PlayerController.cpp">
-      <Filter>Source\BaseProject\Character</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\BaseProject\Character\CPP_PlayerController.h">
-      <Filter>Source\BaseProject\Character</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\BaseProject\Character\CPP_PlayerState.cpp">
-      <Filter>Source\BaseProject\Character</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\BaseProject\Character\CPP_PlayerState.h">
-      <Filter>Source\BaseProject\Character</Filter>
-    </ClInclude>
-    <Filter Include="Source\BaseProject\GameFramework">
-      <UniqueIdentifier>{AE6D5049-9B2D-3149-8734-15935B0C9B14}</UniqueIdentifier>
-    </Filter>
-    <ClCompile Include="..\..\Source\BaseProject\GameFramework\CPP_GameMode.cpp">
-      <Filter>Source\BaseProject\GameFramework</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\BaseProject\GameFramework\CPP_GameMode.h">
-      <Filter>Source\BaseProject\GameFramework</Filter>
-    </ClInclude>
-    <Filter Include="Source\BaseProject\System">
-      <UniqueIdentifier>{A1B797E5-502A-3050-B5E3-09D3F56199D0}</UniqueIdentifier>
-    </Filter>
-    <ClCompile Include="..\..\Source\BaseProject\System\CPP_GameInstance.cpp">
-      <Filter>Source\BaseProject\System</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\BaseProject\System\CPP_GameInstance.h">
-      <Filter>Source\BaseProject\System</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\BaseProject\System\CPP_GameState.cpp">
-      <Filter>Source\BaseProject\System</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\BaseProject\System\CPP_GameState.h">
-      <Filter>Source\BaseProject\System</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>

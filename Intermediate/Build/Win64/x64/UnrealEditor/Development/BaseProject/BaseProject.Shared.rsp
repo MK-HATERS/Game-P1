@@ -1,5 +1,4 @@
 /I "."
-/I "G:\Unreal Engine Projects\NewGameProject\Intermediate\Build\Win64\UnrealEditor\Inc\BaseProject\UHT"
 /I "G:\Unreal Engine Projects\NewGameProject\Source"
 /I "Runtime\Core\Public"
 /I "Runtime\Core\Internal"
