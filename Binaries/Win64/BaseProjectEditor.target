@@ -5350,6 +5350,18 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/NodeGraphAssistant/Binaries/Win64/UnrealEditor-NodeGraphAssistant.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/NodeGraphAssistant/Binaries/Win64/UnrealEditor-NodeGraphAssistant.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/NodeGraphAssistant/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Media/AndroidMedia/Binaries/Win64/UnrealEditor-AndroidMediaEditor.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -29368,6 +29380,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/NodeGraphAssistant/NodeGraphAssistant.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Media/AndroidMedia/AndroidMedia.uplugin",
 			"Type": "UFS"
 		},
@@ -29738,6 +29754,7 @@
 		"N10XSourceCodeAccess",
 		"Niagara",
 		"NiagaraSimCaching",
+		"NodeGraphAssistant",
 		"NullSourceCodeAccess",
 		"ObjectMixer",
 		"OnlineBase",
